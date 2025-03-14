@@ -19,6 +19,7 @@
             border: 3px solid #dfa2b1;
             padding: 40px;
             width: 40%;
+            box-shadow: 0px 5px 15px gray;
         }
 
         label {
@@ -27,7 +28,7 @@
         }
 
         input {
-            margin-left: 25%;
+            margin-left: 30px;
             font-size: 23px;
             border: 1px solid #A35C7A;
             border-radius: 3px;
@@ -36,6 +37,7 @@
         button {
             font-size: 23px;
             width: 40px;
+            border: 3px outset white;
             border-radius: 3px;
             background-color: #be4161;
             color: white;
